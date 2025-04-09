@@ -1,0 +1,1 @@
+<view class=""> classify <me-tabbar wx:if="{{a}}" u-i="31ecb996-0" bind:__l="__l" u-p="{{a}}"></me-tabbar></view>

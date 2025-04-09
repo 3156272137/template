@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "me-tabbar": "../../components/MeTabbar/MeTabbar"
+  }
+}

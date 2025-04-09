@@ -1,0 +1,1 @@
+<view class=""> index <me-tabbar wx:if="{{a}}" u-i="5dc0065b-0" bind:__l="__l" u-p="{{a}}"></me-tabbar></view>
